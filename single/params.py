@@ -1,0 +1,11 @@
+original_dim = 200
+img_rows, img_cols, img_chns = 200, 200, 3
+latent_dim = 64
+intermediate_dim = 128
+epsilon_std = 1.0
+epochs = 50
+filters = 32
+filters1 = 64
+filters2 = 128
+num_conv = 3
+batch_size = 64
